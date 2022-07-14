@@ -1,2 +1,0 @@
-# shiny-guacamole
-OTA Testing
